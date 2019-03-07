@@ -1,1 +1,4 @@
 node_modules/
+public/admin/bower_components/
+public/admin/plugins/
+public/admin/dist/
